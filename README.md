@@ -87,7 +87,8 @@ The application’s design follows key principles of state-based programming, pr
   ![SM_of_Clock_Alarm](https://github.com/user-attachments/assets/948e1807-5e0c-491d-a675-a0a62879e8a1)
 
 - **Device Image**  
-  *(Insert a picture of the Arduino-based device setup here)*  
+![IMG_4670](https://github.com/user-attachments/assets/8a110ea9-7f6b-43f6-9a63-bf869aa2d96f)
+
 
 ## Summary
-This project demonstrates a robust hierarchical state machine implementation for a clock and alarm system. The application features real-time clock updates, error handling, and alarm notifications, making it a comprehensive example of state-driven design. By using structured state transitions and modular code design, the project ensures scalability, maintainability, and efficient resource utilization. These attributes are particularly beneficial for embedded system developers aiming to build responsive, user-friendly interfaces.
+This project demonstrates a robust hierarchical state machine implementation for a clock and alarm system. The application features real-time clock updates, error handling, and alarm notifications, making it a comprehensive example of state-driven design. The project ensures scalability, maintainability, and efficient resource utilization by using structured state transitions and modular code design. These attributes are particularly beneficial for embedded system developers aiming to build responsive, user-friendly interfaces.
